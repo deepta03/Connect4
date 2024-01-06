@@ -12,9 +12,9 @@ public class SwingGUI implements UI {
     private JPanel panel;
     private int size;
     private final int IMG_SIZE = 150;
-    private final String IMG_PATH_EMPTY = "J:\\Users\\Abcde\\IdeaProjects\\A3\\src\\Circle.jpg";
-    private final String IMG_PATH_RED = "J:\\Users\\Abcde\\IdeaProjects\\A3\\src\\CircleRed.jpg";
-    private final String IMG_PATH_YELLOW = "J:\\Users\\Abcde\\IdeaProjects\\A3\\src\\CircleYellow.jpg";
+    private final String IMG_PATH_EMPTY = "src\\Circle.jpg";
+    private final String IMG_PATH_RED = "src\\CircleRed.jpg";
+    private final String IMG_PATH_YELLOW = "src\\CircleYellow.jpg";
     private  int frameWidth;
     private  int frameHeight;
     private ImageIcon icon_empty;
